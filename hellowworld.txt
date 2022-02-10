@@ -1,4 +1,8 @@
 Hello world!
 test text
+<<<<<<< Updated upstream
 
 this line has been added on github.com using browser
+=======
+I am adding new line in VSCode
+>>>>>>> Stashed changes
